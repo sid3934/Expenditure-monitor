@@ -5,4 +5,15 @@ The command to install tailwind CSS is <br>
 `npm install -D tailwindcss` <br>
 `npx tailwindcss init` <br>
 Charts are rendered using Chartjs the installation for charts is <br>
-<br> 
+`npm install chart.js` <br>
+React hook for forms is used from `npm i react-hook-form` <br>
+The doughnut shape for chart is installed from `npm i react-chartjs-2` <br>
+React redux is install as `npm i @reduxjs/toolkit` <br>
+The gateway for google payment is implemented using google developer support as shown in the [documentation](https://www.npmjs.com/package/@google-pay/button-react). <br>
+The backend is built using NodeJs and Express module.
+<br><br>
+To start with, navigate to the client ( `cd client` ) and server ( `cd server` ) folders. Start with initialising the NPM by running `
+npm init -y
+`
+To run the web app, clone it to your local pc using 
+` git clone 
