@@ -12,8 +12,8 @@ React redux is install as `npm i @reduxjs/toolkit` <br>
 The gateway for google payment is implemented using google developer support as shown in the [documentation](https://www.npmjs.com/package/@google-pay/button-react). <br>
 The backend is built using NodeJs and Express module.
 <br><br>
-To start with, navigate to the client ( `cd client` ) and server ( `cd server` ) folders. Start with initialising the NPM by running `
-npm init -y
-`
+To start with, navigate to the client ( `cd client` ) and server ( `cd server` ) folders. Start with initialising the NPM by running ` npm init -y `
 To run the web app, clone it to your local pc using 
-` git clone 
+` git clone https://github.com/sid3934/Expenditure-monitor.git `
+Once the repository is ready on the local server, navigate to the client folder and run the web app typing `npm start`. <br>
+The database is Mongodb and it is hosted for free on the mongodb cloud server. <br>
